@@ -1,16 +1,27 @@
-site_name: My Docs
+site_name: Botdogs Wiki
 theme:
   name: material
   features:
     - navigation.instant
     - content.action.edit
     - content.action.view
+    - navigation.top
+    - navigation.footer
   palette:
     scheme: default
   icon:
     repo: fontawesome/brands/github
+
+copyright: Copyright &copy; 2025 Chicago Style BotDogs
     
 repo_url: https://github.com/jratke587/wiki/
 repo_name: Edit on Github
+
 extra:
-  footer: ""
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/botdogs4645
+    - icon: fontawesome/solid/globe
+      link: https://chicagostylebotdogs.com
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/chicagostylebotdogs/
