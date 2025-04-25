@@ -12,7 +12,7 @@ theme:
   favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
-    logo: assets/botdog.avif
+  logo: assets/botdog.avif
 
 copyright: Copyright &copy; 2025 Chicago Style BotDogs
     
