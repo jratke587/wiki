@@ -9,12 +9,15 @@ theme:
     - navigation.footer
   palette:
     scheme: default
+  favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
+    logo: assets/botdog.avif
 
 copyright: Copyright &copy; 2025 Chicago Style BotDogs
     
 repo_url: https://github.com/jratke587/wiki/
+repo_name: Edit on Github
 
 extra:
   social:
